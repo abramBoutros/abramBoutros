@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abramBoutros
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently Practicing ME(A/R)N stack
+- 🌱 I’m currently working with ME(A/R)N stack
 - 💞️ I’m looking to collaborate on any project
 - 📫 reach me at abramBoutros96@gmail.com
 
