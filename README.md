@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abramBoutros
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning React
+- 🌱 I’m currently Practicing ME(A/R)N stack
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me abramBoutros96@gmail.com
+- 📫 reach me at abramBoutros96@gmail.com
 
 <!---
 abramBoutros/abramBoutros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
